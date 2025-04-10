@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there 👋      
 
 <!--
 **khiemnguyen0407/khiemnguyen0407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I am a lecturer at University of Glasgow
+- 🌱 My research interests are in Applied Mathematics and Computational Mechanics.
+- 👯 I’m looking to collaborate on problems involving multiscale methods, multiscale materials, and data-driven problems.
+- 👋 My teaching at University of Glasgow:
+     1. Introduction to Programming: Basics of Python, plotting, object-oriented programming and NumPy in Python.
+     2. Advanced Programming and Software Engineering: Basics of C++, Object-oriented programming in C++, Basics of bash and makefile
+     3. Deep Learning: Multilayer Perceptrons, Convolution Neural Networks, Recurrent Neural Networks and their applications
+-
+- 📫 How to reach me: khiem.nguyen@glasgow.ac.uk
+- ⚡ Fun fact: Students normally comment "Khiem is funny." after each semester. I hope it is a good comment, not a negative comment for my bad teaching.
 -->
